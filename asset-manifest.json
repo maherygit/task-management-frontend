@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://Vturnus.github.io/task-management-frontend /static/css/main.5ac26d30.chunk.css",
+    "main.js": "https://Vturnus.github.io/task-management-frontend /static/js/main.27fb2878.chunk.js",
+    "main.js.map": "https://Vturnus.github.io/task-management-frontend /static/js/main.27fb2878.chunk.js.map",
+    "runtime~main.js": "https://Vturnus.github.io/task-management-frontend /static/js/runtime~main.fb098c01.js",
+    "runtime~main.js.map": "https://Vturnus.github.io/task-management-frontend /static/js/runtime~main.fb098c01.js.map",
+    "static/js/2.be4d9c5a.chunk.js": "https://Vturnus.github.io/task-management-frontend /static/js/2.be4d9c5a.chunk.js",
+    "static/js/2.be4d9c5a.chunk.js.map": "https://Vturnus.github.io/task-management-frontend /static/js/2.be4d9c5a.chunk.js.map",
+    "index.html": "https://Vturnus.github.io/task-management-frontend /index.html",
+    "precache-manifest.a77503dd82501c3600ca08819b3d9016.js": "https://Vturnus.github.io/task-management-frontend /precache-manifest.a77503dd82501c3600ca08819b3d9016.js",
+    "service-worker.js": "https://Vturnus.github.io/task-management-frontend /service-worker.js",
+    "static/css/main.5ac26d30.chunk.css.map": "https://Vturnus.github.io/task-management-frontend /static/css/main.5ac26d30.chunk.css.map"
+  }
+}
