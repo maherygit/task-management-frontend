@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://vturnus.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
-    "main.js": "https://vturnus.github.io/task-management-frontend/static/js/main.4eb5a489.chunk.js",
-    "main.js.map": "https://vturnus.github.io/task-management-frontend/static/js/main.4eb5a489.chunk.js.map",
-    "runtime~main.js": "https://vturnus.github.io/task-management-frontend/static/js/runtime~main.9b94fd84.js",
-    "runtime~main.js.map": "https://vturnus.github.io/task-management-frontend/static/js/runtime~main.9b94fd84.js.map",
-    "static/js/2.3c2fc89d.chunk.js": "https://vturnus.github.io/task-management-frontend/static/js/2.3c2fc89d.chunk.js",
-    "static/js/2.3c2fc89d.chunk.js.map": "https://vturnus.github.io/task-management-frontend/static/js/2.3c2fc89d.chunk.js.map",
-    "index.html": "https://vturnus.github.io/task-management-frontend/index.html",
-    "precache-manifest.d88aa161c351490208579001e3696aeb.js": "https://vturnus.github.io/task-management-frontend/precache-manifest.d88aa161c351490208579001e3696aeb.js",
-    "service-worker.js": "https://vturnus.github.io/task-management-frontend/service-worker.js",
-    "static/css/main.5ac26d30.chunk.css.map": "https://vturnus.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
+    "main.css": "https://maherygit.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
+    "main.js": "https://maherygit.github.io/task-management-frontend/static/js/main.7ac77eb7.chunk.js",
+    "main.js.map": "https://maherygit.github.io/task-management-frontend/static/js/main.7ac77eb7.chunk.js.map",
+    "runtime~main.js": "https://maherygit.github.io/task-management-frontend/static/js/runtime~main.74399b73.js",
+    "runtime~main.js.map": "https://maherygit.github.io/task-management-frontend/static/js/runtime~main.74399b73.js.map",
+    "static/js/2.98e08e46.chunk.js": "https://maherygit.github.io/task-management-frontend/static/js/2.98e08e46.chunk.js",
+    "static/js/2.98e08e46.chunk.js.map": "https://maherygit.github.io/task-management-frontend/static/js/2.98e08e46.chunk.js.map",
+    "index.html": "https://maherygit.github.io/task-management-frontend/index.html",
+    "precache-manifest.ba0477ff746e0e9afe1dbf506cf6349a.js": "https://maherygit.github.io/task-management-frontend/precache-manifest.ba0477ff746e0e9afe1dbf506cf6349a.js",
+    "service-worker.js": "https://maherygit.github.io/task-management-frontend/service-worker.js",
+    "static/css/main.5ac26d30.chunk.css.map": "https://maherygit.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
   }
 }
